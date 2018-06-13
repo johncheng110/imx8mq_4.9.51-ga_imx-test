@@ -1,0 +1,3 @@
+DIR = ETM
+BUILD = etm
+COPY = README
